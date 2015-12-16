@@ -1,14 +1,26 @@
-layout_spectrum: 0.7247455
 color:
   saturation: 0.9860498
-  lightness: 0.5074811
   brandStrength: 0.6487455
+  rhythmicContrast: 0.6465651
   brandColors:
     - '#000000'
     - '#C64B41'
     - '#66635D'
     - '#BCB5A3'
     - '#F1DEC8'
-  rhythmicContrast: 0.6465651
+  lightness: 0.5074811
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.7247455
 typography_spectrum: 0.718638
 name: Daniel De Wispelaere
