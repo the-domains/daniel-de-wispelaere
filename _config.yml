@@ -1,0 +1,14 @@
+layout_spectrum: 0.7247455
+color:
+  saturation: 0.9860498
+  lightness: 0.5074811
+  brandStrength: 0.6487455
+  brandColors:
+    - '#000000'
+    - '#C64B41'
+    - '#66635D'
+    - '#BCB5A3'
+    - '#F1DEC8'
+  rhythmicContrast: 0.6465651
+typography_spectrum: 0.718638
+name: Daniel De Wispelaere
