@@ -1,3 +1,7 @@
+name: Daniel De Wispelaere
+favicon: null
+layout_spectrum: 0.7247455
+typography_spectrum: 0.702509
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.702509
+title: Restauratie - decoratie - schilder
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  lightness: 0.7706093
-  brandStrength: 0.7759857
   brandColors:
     - '#000000'
     - '#C64B41'
     - '#66635D'
     - '#BCB5A3'
     - '#F1DEC8'
+  brandStrength: 0.7759857
+  lightness: 0.7706093
+  saturation: 1
   rhythmicContrast: 1
-layout_spectrum: 0.7247455
-name: Daniel De Wispelaere
+purpose: []
