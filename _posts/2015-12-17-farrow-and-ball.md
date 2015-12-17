@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T21:01:34.823Z'
-dateModified: '2015-12-17T21:01:27.630Z'
+datePublished: '2015-12-17T21:04:53.165Z'
+dateModified: '2015-12-17T21:04:46.150Z'
 title: 'Farrow & Ball'
 author: []
 sourcePath: _posts/2015-12-17-farrow-and-ball.md
@@ -26,6 +26,7 @@ Een oud verffabriekje, dat gekend was voor zijn typische rode kleur, werd door e
 
 [http://www.farrowball.co.uk/ ][0]
 
-In 1994 kwam ik in contact met de verffabrikant Farrow & Ball. Die ondertussen internationale naam en faam bereikt heeft. Indertijd maakte ik verscheidene trips om verf en behang zelf op te halen. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67383600-75fd-426b-9dfa-2a69596e4a5d.gif)
+_In 1994 kwam ik in contact met de verffabrikant Farrow & Ball. Die ondertussen internationale naam en faam bereikt heeft. Indertijd maakte ik verscheidene trips om verf en behang zelf op te halen. _
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67383600-75fd-426b-9dfa-2a69596e4a5d.gif)
 
 [0]: http://www.farrowball.co.uk/
