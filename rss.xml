@@ -4,7 +4,7 @@
         <description><![CDATA[Restauratie - decoratie - schilder]]></description>
         <link>https://thegrid.ai/daniel-de-wispelaere/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 19:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 19:55:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/daniel-de-wispelaere/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nog]]></title>
@@ -12,20 +12,6 @@
             <link>https://thegrid.ai/daniel-de-wispelaere/nog/index.html</link>
             <guid isPermaLink="false">c0438a9d-4850-4db7-a910-990f559e6a8c</guid>
             <pubDate>Wed, 16 Dec 2015 19:25:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Nog meer info</p>]]></description>
-            <link>https://thegrid.ai/daniel-de-wispelaere/8c0bb65d-a0f0-4a69-8496-b39638077b07/index.html</link>
-            <guid isPermaLink="false">8c0bb65d-a0f0-4a69-8496-b39638077b07</guid>
-            <pubDate>Wed, 16 Dec 2015 18:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test]]></title>
-            <description><![CDATA[<article><h1>Test</h1><p>Testbestand </p></article>]]></description>
-            <link>https://thegrid.ai/daniel-de-wispelaere/test/index.html</link>
-            <guid isPermaLink="false">13ca52e6-dec3-40f7-b9e2-d06f393a433a</guid>
-            <pubDate>Wed, 16 Dec 2015 19:22:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
