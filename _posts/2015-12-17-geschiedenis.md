@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T20:22:20.713Z'
-dateModified: '2015-12-17T20:21:47.765Z'
+datePublished: '2015-12-17T20:51:01.534Z'
+dateModified: '2015-12-17T20:50:26.169Z'
 title: Geschiedenis
 author: []
 sourcePath: _posts/2015-12-17-geschiedenis.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: geschiedenis/index.html
-_type: Article
+_type: WebPage
 
 ---
 In de familie De Wispelaere is het kunstambacht reeds vele generaties eminent aanwezig. 
