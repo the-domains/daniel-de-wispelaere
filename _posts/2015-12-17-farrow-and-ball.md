@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T21:00:04.174Z'
-dateModified: '2015-12-17T20:59:56.545Z'
+datePublished: '2015-12-17T21:01:34.823Z'
+dateModified: '2015-12-17T21:01:27.630Z'
 title: 'Farrow & Ball'
 author: []
 sourcePath: _posts/2015-12-17-farrow-and-ball.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: farrow-and-ball/index.html
-_type: WebPage
+_type: Article
 
 ---
 Een oud verffabriekje, dat gekend was voor zijn typische rode kleur, werd door een ondernemend 'colorist' en zijn zakenpartner, overgenomen. De contacten die het fabriekje onderhield met The National Trust leidden ertoe dat er een kleurenwaaier van 59 documentkleuren op punt gesteld werd. Drijvende kracht was John Fowler (van het nog steeds bestaande topameublementsbedrijf Colefax & Fowler). Intussen beslaat de collectie reeds 130 kleuren en is er een lijn behangpapieren ontstaan, die zijn gelijke niet kent. 
