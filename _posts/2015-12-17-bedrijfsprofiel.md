@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Wat is een ‘Restauratie- Decoratie-Schilder’? '
-datePublished: '2015-12-17T20:10:59.317Z'
-dateModified: '2015-12-17T20:10:39.864Z'
+datePublished: '2015-12-17T21:13:06.674Z'
+dateModified: '2015-12-17T21:12:46.599Z'
 title: Bedrijfsprofiel
 author: []
 authors: []
