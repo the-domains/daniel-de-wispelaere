@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T20:03:05.478Z'
-dateModified: '2015-12-17T20:02:41.730Z'
+datePublished: '2015-12-17T20:08:25.954Z'
+dateModified: '2015-12-17T20:05:15.410Z'
 title: Geschiedenis
 author: []
+sourcePath: _posts/2015-12-17-geschiedenis.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-geschiedenis.md
-published: true
 url: geschiedenis/index.html
 _type: Article
 
