@@ -1,41 +1,41 @@
-name: Daniel De Wispelaere
-favicon: null
-layout_spectrum: 0.47025
-typography_spectrum: 1
 title: Daniel De Wispelaere - Restauratie - Decoratie - Schilder
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.4677419
+  brandStrength: 0.6875
+  lightness: 0.3602151
   brandColors:
     - '#000000'
     - '#C64B41'
     - '#66635D'
     - '#BCB5A3'
     - '#F1DEC8'
-  brandStrength: 0.6875
-  lightness: 0.6875
-  saturation: 0.1875
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.4892473
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Daniel De Wispelaere
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.1810036
